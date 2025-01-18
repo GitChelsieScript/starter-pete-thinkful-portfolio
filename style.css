@@ -29,11 +29,10 @@ header{
   padding: 1px;
 }
 
-about-info-container{   
+.about-info-container{   
   display: flex;
-  justify-content: center;
   flex-direction: row;
-  align-items: center;
+
   padding: 1px;
 }
 /* Containers */
